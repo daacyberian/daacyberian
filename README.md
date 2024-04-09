@@ -8,7 +8,7 @@
 <div align="left">
   <ul>
   <li><h3>👀 I’m interested in Ethical Hacking</h3></li>
-  <li><h3>🎓 Undergrad Student at NED University of Engineering & Technology</h3></li>  
+  <li><h3>🎓 Undergrad BSIT (Cyber Security) Student at NED University of Engineering & Technology</h3></li>  
   <li><h3>🌱 I’m currently learning Web Development</h3></li>
   <li><h3>🚩 CTF is fun </h3></li>
   <li><h3>💬 Contact me at syeddawood446@gmail.com </h3></li>
