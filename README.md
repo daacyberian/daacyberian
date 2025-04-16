@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://imgur.com/W3omSSn.jpg" alt="Profile"> 
+  <img src="https://imgur.com/3yEnNpn.jpg" alt="Profile"> 
 </div>
 <div align="center">
   <h1> Hey there! I'm Syed Dawood</h1>
