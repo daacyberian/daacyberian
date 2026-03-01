@@ -1,9 +1,17 @@
 <div align="center">
   <img src="https://imgur.com/3yEnNpn.jpg" alt="Profile"> 
 </div>
+
 <div align="center">
-  <h1> Hey there! I'm Syed Dawood</h1>
+  <h1>Hey there! I'm Syed Dawood</h1>
   <h3>CTF Player | Bug Hunter | Red Team Enthusiast</h3>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=daacyberian&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daacyberian&theme=dark" alt="Streak Stats" />
 </div>
 
 <br>
@@ -15,14 +23,14 @@
     <li><h3>🔍 Part-time security researcher</h3></li>
     <li><h3>💻 Comfortable with:</h3>
       <ul>
-        <li>JavaScript (Node.js, Express.js)</li>
+        <li>JavaScript (Node.js, Express.js, React)</li>
         <li>Python (Flask)</li>
         <li>C / C++</li>
         <li>PHP</li>
       </ul>
     </li>
     <li><h3>🕸️ Web security is my current focus</h3></li>
-    <li><h3>📫 Contact: <code>syeddawood446@gmail.com</code></h3></li>
+    <li><h3>📫 Contact: <code>syeddawood463@gmail.com</code></h3></li>
   </ul>
 </div>
 
@@ -45,6 +53,8 @@
   <img src="https://img.shields.io/static/v1?message=CSS&logo=css3&label=&color=1572B6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="CSS logo" />
   <img src="https://img.shields.io/static/v1?message=Tailwind%20CSS&logo=tailwind-css&label=&color=38B2AC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Tailwind CSS logo" />
   <img src="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="JavaScript logo" />
+  <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="React logo" />
+  <img src="https://img.shields.io/static/v1?message=Vite&logo=vite&label=&color=646CFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Vite logo" />
 
   <br><br>
 
@@ -63,6 +73,15 @@
 
   <!-- Other -->
   <img src="https://img.shields.io/static/v1?message=Canva&logo=canva&label=&color=00C4CC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Canva logo" />
+  <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Git logo" />
+</div>
+
+<br>
+
+<div align="center">
+  <h1>GitHub Stats 📊</h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=daacyberian&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daacyberian&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
@@ -80,7 +99,7 @@
   <a href="https://medium.com/@syed_dawood" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Medium logo" />
   </a>
-  <a href="mailto:syeddawood446@gmail.com">
+  <a href="mailto:syeddawood463@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
   </a>
   <a href="https://www.instagram.com/d4ud.cpp/" target="_blank">
@@ -88,4 +107,3 @@
   </a>
   <img src="https://img.shields.io/static/v1?message=Discord:%20r3v3rs3_pr0x7&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord username badge" />
 </div>
-
