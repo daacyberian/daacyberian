@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hey there! I'm Syed Dawood</h1>
   <h3>Cybersecurity Enthusiast | Developer | CTF Player | Bug Bounty Hunter</h3>
-  <p>Karachi, Pakistan | syeddawood446@gmail.com</p>
+  <p>syeddawood446@gmail.com</p>
 </div>
 
 <br>
@@ -36,7 +36,7 @@
 <br>
 
 ### **📫 Connect**
-<a href="https://linkedin.com/in/syed-dawood-42bbbb296" target="_blank">
+<div align="center"><a href="https://linkedin.com/in/syed-dawood-42bbbb296" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
 </a>
 <a href="mailto:syeddawood446@gmail.com">
@@ -45,3 +45,4 @@
 <a href="https://medium.com/@syed_dawood" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&style=for-the-badge" height="35" />
 </a>
+</div>
