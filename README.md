@@ -1,8 +1,7 @@
 <div align="left">
   <h1>Hey there! I'm Syed Dawood</h1>
-  <h3>Cybersecurity Enthusiast | Developer | CTF Player</h3>
+  <h3>Cybersecurity Enthusiast | Developer | CTF Player | Bug Bounty Hunter</h3>
   <p>Karachi, Pakistan | syeddawood446@gmail.com</p>
-  <a href="https://linkedin.com/in/syed-dawood-42bbbb296" target="_blank">LinkedIn</a>
 </div>
 
 <br>
@@ -16,7 +15,7 @@
 
 <div align="center">
 ### 🛠️ Tech Stack
-
+<br>
 <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B9CC&logoColor=white&style=for-the-badge" height="35" />
 <img src="https://img.shields.io/static/v1?message=C%2B%2B&logo=c%2B%2B&label=&color=00599C&logoColor=white&style=for-the-badge" height="35" />
 <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&style=for-the-badge" height="35" />
