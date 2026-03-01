@@ -13,7 +13,8 @@
 
 <br>
 
-<div align="center">
+<br>
+
 ### **🛠️ Tech Stack**
 <br>
 <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B9CC&logoColor=white&style=for-the-badge" height="35" />
@@ -30,7 +31,6 @@
 <img src="https://img.shields.io/static/v1?message=Express&logo=express&label=&color=000000&logoColor=white&style=for-the-badge" height="35" />
 <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&style=for-the-badge" height="35" />
 <img src="https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=FCC624&logoColor=black&style=for-the-badge" height="35" />
-</div>
 
 <br>
 
@@ -38,11 +38,9 @@
 <a href="https://linkedin.com/in/syed-dawood-42bbbb296" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
 </a>
-<br><br>
 <a href="mailto:syeddawood446@gmail.com">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
 </a>
-<br><br>
 <a href="https://medium.com/@syed_dawood" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&style=for-the-badge" height="35" />
 </a>
