@@ -14,7 +14,7 @@
 <br>
 
 <div align="center">
-### 🛠️ Tech Stack
+### **🛠️ Tech Stack**
 <br>
 <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B9CC&logoColor=white&style=for-the-badge" height="35" />
 <img src="https://img.shields.io/static/v1?message=C%2B%2B&logo=c%2B%2B&label=&color=00599C&logoColor=white&style=for-the-badge" height="35" />
@@ -34,7 +34,7 @@
 
 <br>
 
-### 📫 Connect
+### **📫 Connect**
 <a href="https://linkedin.com/in/syed-dawood-42bbbb296" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
 </a>
