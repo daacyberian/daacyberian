@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
   <h1>Hey there! I'm Syed Dawood</h1>
   <h3>Cybersecurity Enthusiast | Developer | CTF Player | Bug Bounty Hunter</h3>
   <p>Karachi, Pakistan | syeddawood446@gmail.com</p>
