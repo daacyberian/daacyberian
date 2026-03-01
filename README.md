@@ -16,7 +16,7 @@
 <br>
 
 ### **🛠️ Tech Stack**
-<br>
+<div align="center">
 <img src="https://img.shields.io/static/v1?message=C&logo=c&label=&color=A8B9CC&logoColor=white&style=for-the-badge" height="35" />
 <img src="https://img.shields.io/static/v1?message=C%2B%2B&logo=c%2B%2B&label=&color=00599C&logoColor=white&style=for-the-badge" height="35" />
 <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&style=for-the-badge" height="35" />
@@ -31,6 +31,7 @@
 <img src="https://img.shields.io/static/v1?message=Express&logo=express&label=&color=000000&logoColor=white&style=for-the-badge" height="35" />
 <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&style=for-the-badge" height="35" />
 <img src="https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=FCC624&logoColor=black&style=for-the-badge" height="35" />
+</div>
 
 <br>
 
